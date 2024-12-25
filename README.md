@@ -1,1 +1,1 @@
-Different types of problems.. once opened click on any question number.. check md file to look at thew questions and solutions are mostly written in C
+Different types of problems. Once opened click on any question number. Check md file to look at thew questions and solutions are mostly written in C
